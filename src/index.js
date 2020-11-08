@@ -1169,4 +1169,4 @@ function WebSqlPouch(opts, callback) {
   };
 }
 
-export default WebSqlPouch;
+module.exports = WebSqlPouch;
